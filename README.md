@@ -3,7 +3,9 @@ Hello! I completed the Full Stack Data Analyst Bootcamp from ExcelHelpLine a few
 
 In this repository, all Python-related files are uploaded here. Feel free to look around!
 
-List of Repository Contents:
+___
+
+**List of Repository Contents:**
 - Python Notes from Full Stacks Data Analyst Bootcamp
 - Python Assignments from Full Stacks Data Analyst Bootcamp
 - Exported CSV Output Files
