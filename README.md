@@ -14,5 +14,4 @@ ___
   - Exported CSV Output Files
   - Web Scraping and Data Analysis Exercises
 
-### **List of Repository Contents:**
 
