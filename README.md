@@ -10,4 +10,18 @@ Hello! I completed the Full Stack Data Analyst Bootcamp from ExcelHelpLine a few
   - Exported CSV Output Files
   - Web Scraping and Data Analysis Exercises
 
+## Requirements
 
+- Python 3.x
+- `pandas` library
+- `numpy` library
+- `bs4` library
+
+## Installation
+
+1. Install Python 3.x from [python.org](https://www.python.org/).
+2. Install the required libraries using pip:
+
+    ```sh
+    pip install pandas numpy bs4
+    ```
